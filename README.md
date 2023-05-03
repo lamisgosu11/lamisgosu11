@@ -9,10 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lamisgosu11&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lamisgosu11&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=lamisgosu11&icon=5&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lamisgosu11&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
