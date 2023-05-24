@@ -6,8 +6,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-lamisgosu11.vercel.app/api?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats-lamisgosu11.vercel.app/api/top-langs/?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true)<br/>
-<!-- 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lamisgosu11&theme=rogue) -->
+# 📈 Github Activity Graph:
+<!--START_SECTION:activity-->
+
+# 🐍 GitHub Snake Stats:
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
 
