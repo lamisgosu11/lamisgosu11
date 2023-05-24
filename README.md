@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science at University of Information Technology**.
 
-- 👨‍💻 All of my projects are available at [lamisgosu11.github.io](lamisgosu11.github.io).
+- 👨‍💻 All of my projects are available at [lamisgosu11.github.io](lamisgosu11.github.io)
 
 - 📫 How to reach me **lamisgosu11@gmail.com**.
 
