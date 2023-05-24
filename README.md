@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-lamisgosu11.vercel.app/api?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-stats-lamisgosu11.vercel.app/api/top-langs/?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true)<br/>
-# 📈 Github Activity Graph:
+# 📈 Github Recent Actitivy:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis/pull/4) in [lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis](https://github.com/lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis)
 2. 💪 Opened PR [#4](https://github.com/lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis/pull/4) in [lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis](https://github.com/lamisgosu11/Imdb-Movie-Reviews-Sentiment-Analysis)
