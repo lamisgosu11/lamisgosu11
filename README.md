@@ -9,6 +9,7 @@
 # 📈 Github Activity Graph:
 <!--START_SECTION:activity-->
 
+
 # 🐍 GitHub Snake Stats:
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
