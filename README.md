@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lam</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-[![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&icon=5&color=12)](https://visitcount.itsvg.in)
+[![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p>
 
