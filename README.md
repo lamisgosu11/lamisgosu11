@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lamisgosu11@gmail.com**.
 
-- ⚡ Fun fact **I don't think this is funny**.
+- ⚡ Fun fact **num 42**.
 
 <p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)" alt="lamisgosu11" /></p>
 
