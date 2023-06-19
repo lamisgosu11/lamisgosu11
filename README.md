@@ -5,15 +5,16 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p> -->
 <p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api/top-langs/?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" alt="lamisgosu11"/></p>
+
 - 🌱 I’m currently learning **Data Science at University of Information Technology**.
 
-- 👨‍💻 All of my projects are available at [My GitHub Pages](https://lamisgosu11.github.io/).
+- 👨‍💻 All of **my projects** are available at [My GitHub Pages](https://lamisgosu11.github.io/).
 
-- 📫 How to reach me **lamisgosu11@gmail.com**.
+- 📫 Reach me at **lamisgosu11@gmail.com**.
 
-- ⚡ Fun fact **num 42**.
-
+- ⚡ Funni number **42**.
 <p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)" alt="lamisgosu11" /></p>
+
 
 <p align="left">
 </p>
