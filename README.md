@@ -4,6 +4,7 @@
 [![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p> -->
+
 <p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api/top-langs/?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" alt="lamisgosu11"/></p>
 
 - 🌱 I’m currently learning **Data Science at University of Information Technology**.
