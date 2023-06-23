@@ -30,8 +30,8 @@
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-<h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3>
-
-
 # <img src="https://emojis.slackmojis.com/emojis/images/1678919301/64678/bugcat_cry.gif?1678919301" width="50"> 
 <img src="https://pbs.twimg.com/media/FnPHtWfakAEfPwj?format=jpg&name=large" width="">
+
+
+<h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3>
