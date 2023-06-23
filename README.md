@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lam</h1>
+<h1 align="center">Hi 👋, I'm Lam</h1> 
+
+[![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/33517de90f780b557ef02becf15eb760ed59bf2e/bio.svg">](#)
 
