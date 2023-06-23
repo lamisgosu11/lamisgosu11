@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lam</h1>
+
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/33517de90f780b557ef02becf15eb760ed59bf2e/bio.svg">](#)
+
+
 <h3 align="center">A passionate developer from Vietnam</h3>
 <!--[![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p> -->
 
-<p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api/top-langs/?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" alt="lamisgosu11"/></p>
 
 - 🌱 I’m currently learning **Data Science at University of Information Technology**.
 
@@ -13,10 +16,7 @@
 - 📫 Reach me at **lamisgosu11@gmail.com**.
 
 - ⚡ Funni number **42**.
-<p><img align="right" src="https://github-readme-stats-lamisgosu11.vercel.app/api?username=lamisgosu11&title_color=F2BED1&text_color=F2BED1&bg_color=DEG,03001e,7303c0,ec38bc,fdeff9&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)" alt="lamisgosu11" /></p>
 
-# 👩‍💻 Terminal Metrics
-[<img align="" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/2b55de6a121f6bc2bcde1b1e4349b4c33a002893/github-metrics.svg">](#)
 
 
 <p align="left">
