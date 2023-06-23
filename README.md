@@ -33,5 +33,5 @@
 
 
 <!-- <h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3> -->
-<h3 align='right'> <img src="https://komarev.com/ghpvc/?username=lamisgosu11&color=ff69b4&style=plastic&label=Lovely+people" width=""  /></h3>
+<h3 align='right'> <img src="https://komarev.com/ghpvc/?username=lamisgosu11&color=ff69b4&style=for-the-badge&label=Lovely+people" width=""  /></h3>
 
