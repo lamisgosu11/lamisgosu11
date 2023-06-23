@@ -29,7 +29,5 @@
 # 🐍 GitHub Snake Stats:
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
-# 👾 Pokemon Garden:
-![Pokemon](https://github.com/lamisgosu11/lamisgosu11/assets/81922020/24981a65-d6e7-43e2-9d8e-a501a3ffebc9)
 
 
