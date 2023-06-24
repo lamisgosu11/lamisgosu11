@@ -270,24 +270,8 @@
           animation-delay: 4.12s;
         }
         
-      
-        .stdin:nth-of-type(11) {
-          animation-delay: 4.4s;
-        }
-        .stdout:nth-of-type(12) {
-          animation-delay: 4.5600000000000005s;
-        }
-        
-      
-        .stdin:nth-of-type(12) {
-          animation-delay: 4.840000000000001s;
-        }
-        .stdout:nth-of-type(13) {
-          animation-delay: 5.000000000000001s;
-        }
-        
           footer {
-            animation-delay: 4.840000000000001s;
+            animation-delay: 3.96s;
           }
         
       
