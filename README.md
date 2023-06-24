@@ -2,7 +2,7 @@
 <h3 align='center'> <img src="https://komarev.com/ghpvc/?username=lamisgosu11&color=ff69b4&style=for-the-badge&label=Lovely+People" width=""  /></h3>
 <h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />, I'm Lam</h1> 
 
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/33517de90f780b557ef02becf15eb760ed59bf2e/bio.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/bio.svg">](#)
 
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/cat-introduction.gif" width="30" /> A passionate developer from Vietnam <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/cat-introduction.gif" width="30" /></h3>
