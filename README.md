@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **lamisgosu11@gmail.com**.
 
-- ⚡ Funni number **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">**
+- ⚡ Funni number 42 **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">**
 
 
 
