@@ -11,7 +11,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Data Science** at **University of Information Technology**.
+- 🌱 I’m currently learning **Data Science** at **University of Information Technology- VNUHCM**.
 
 - 👨‍💻 All of **my projects** are available at [My GitHub Pages](https://lamisgosu11.github.io/).
 
