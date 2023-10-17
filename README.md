@@ -26,9 +26,8 @@
     <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" loading="lazy" />
    </a>
 </div>
-<br />
-
-
+<br/>
+<br/>
 
 
 <h3 align="center">🐍GitHub Snake Stats🐍 </h3> 
