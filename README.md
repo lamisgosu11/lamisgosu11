@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of **my projects** are available at [My GitHub Pages](https://lamisgosu11.github.io/). 👨‍💻
 
-- 📫 Contact me for work at **lamng.business@gmail.com**. 📫
+- 📫 Contact me at **lamng.business@gmail.com**. 📫
 
 - ⚡ Funni number 42 **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">** ⚡
 
