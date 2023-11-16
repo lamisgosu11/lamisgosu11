@@ -290,8 +290,8 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">lamisgosu11@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Gia Lam Ngo</b> registered=2y, uid=2020, gid=0
-  contributed to 47 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
+<pre><div class="stdin"><span class="ps1-path">lamisgosu11@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Gia-Lam Ngo</b> registered=2y, uid=2020, gid=0
+  contributed to 48 repositories <b><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>10</b> users
 </div>
 <div class="stdin"><span class="ps1-path">lamisgosu11@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
@@ -1232,8 +1232,13 @@
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
                       <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
+                    </g>
+                    <g transform="translate(-5.1, 8.586206896551724)">
+                      <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                     </g></g></g></svg></div>
-<b>    1</b> consecutive day with commits
+<b>    2</b> consecutive days with commits
 <b>~1.68</b> commits per day in average
 </div>
 
