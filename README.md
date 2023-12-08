@@ -13,7 +13,7 @@
 
 - 📫 Contact me at **lamng.business@gmail.com**. 📫
 
-- ⚡ Funni number 13.37*pi **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">** ⚡
+- ⚡ Funni number 1337*pi% **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">** ⚡
 
 <p align="left"> 
 <!-- <h3 align="left"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/rainbow-cat.gif" width="30"> </h3> -->
