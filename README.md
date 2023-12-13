@@ -3,7 +3,7 @@
 <h1 align="center"> Hi👋, I'm Lam</h1> 
 <img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/bio.svg">
 
-<h3 align="center"> :shipit: A passionate developer from Vietnam :shipit:  </h3>
+<h3 align="center"> 🐈‍⬛ A passionate developer from Vietnam 🐈‍⬛</h3>
 <!--[![Views](https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamisgosu11" alt="lamisgosu11" /></a> </p> -->
@@ -18,7 +18,7 @@
 <p align="left"> 
 <!-- <h3 align="left"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/rainbow-cat.gif" width="30"> </h3> -->
 <div align="center">
-   <h3>:rocket: Today's Moon :rocket:</h3>
+   <h3>🚀 Today's Moon 🚀</h3>
    <a href="https://moon-svg.minung.dev">
     <img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg" loading="lazy" />
    </a>
