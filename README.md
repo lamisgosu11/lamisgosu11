@@ -33,11 +33,13 @@
 
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h3 align = "center">
+-----
 
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&redirect=true)
+<h3 align="center">🎶Currently Listening To🎶 </h3> 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&redirect=true)
+
 </h3>
-
 
 <!-- <h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3> -->
 
