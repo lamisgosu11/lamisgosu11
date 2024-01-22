@@ -41,7 +41,11 @@
 
 </h3>
 
-<h3 align='center'> <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="500"  /></h3> 
+<div align="center">
+   <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
+   <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="500"/>
+</div>
+
 <!-- https://count.getloli.com/get/@lamisgosu11?theme=rule34 -->
 <!-- <h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3> -->
 
