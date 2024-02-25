@@ -35,6 +35,13 @@
 
 -----
 
+<h3 align="center">🏆Github Trophies🏆
+
+![Snake Animation](https://github-profile-trophy.vercel.app/?username=lamisgosu11&theme=discord&no-bg=true&no-frame=true)
+ </h3> 
+
+-----
+
 <h3 align="center">🎶Currently Listening To🎶 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&redirect=true)
@@ -45,6 +52,7 @@
    <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
    <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="500"/>
 </div>
+
 
 <!-- https://count.getloli.com/get/@lamisgosu11?theme=rule34 -->
 <!-- <h3 align='right'> <img src="https://visitcount.itsvg.in/api?id=lamisgosu11&label=Welcome%20To%20my%20profile&color=12&icon=9&pretty=true" width="30"  /></h3> -->
