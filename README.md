@@ -13,7 +13,8 @@
 
 - 📫 Contact me at **lamng.business@gmail.com**. 📫
 
-- ⚡ Funni number 1337*pi% **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">** ⚡
+- ⚡ Funni number 1337*pi% ≈ 42 **<img src="https://emojis.slackmojis.com/emojis/images/1657768669/60058/iidk.png?1657768669" width="30">** ⚡
+- **<img src="https://emojis.slackmojis.com/emojis/images/1643517239/32777/cyndaquil.gif?1643517239" width="30">** Cyndaquil is my favorite Pokémon btw :) **<img src="https://emojis.slackmojis.com/emojis/images/1643517239/32777/cyndaquil.gif?1643517239" width="30">**
 
 <p align="left"> 
 <!-- <h3 align="left"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/rainbow-cat.gif" width="30"> </h3> -->
