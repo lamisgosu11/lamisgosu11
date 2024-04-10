@@ -28,12 +28,13 @@
    </a>
 </div>
 
------
+<!-- ----- 
 
 <h3 align="center">🐍GitHub Snake Stats🐍 </h3> 
 
 ![Snake Animation](https://github.com/lamisgosu11/lamisgosu11/blob/output/github-contribution-grid-snake-dark.svg)
 
+-->
 -----
 
 <h3 align="center">🏆Github Trophies🏆
