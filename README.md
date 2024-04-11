@@ -51,8 +51,8 @@
 </h3>
 <div align = "center">
    
-   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lamisgosu11&width=500)](https://open.spotify.com/user/lamisgosu11) <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
-   <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="300"/>
+   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lamisgosu11&width=300)](https://open.spotify.com/user/lamisgosu11) <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
+   <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="500"/>
    
 </div>
 
