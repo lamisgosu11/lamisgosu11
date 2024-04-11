@@ -46,13 +46,14 @@
 
 <h3 align="center">🎶Currently Listening To🎶 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=lamisgosu11&redirect=true)
+
 
 </h3>
-
-<div align="center">
-   <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
+<div align = "center">
+   
+   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lamisgosu11&width=500)](https://open.spotify.com/user/lamisgosu11) <img src = "https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif"/> 
    <img src="https://count.getloli.com/get/@lamisgosu11?theme=rule34" width="500"/>
+   
 </div>
 
 
