@@ -51,7 +51,7 @@
 </h3>
 <div align = "center">
    
-   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lamisgosu11&width=423)](https://open.spotify.com/user/lamisgosu11) <img src = "https://c.tenor.com/ayNnvjM1ozIAAAAC/tenor.gif" height ="330" width = "423"/> 
+   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lamisgosu11&width=400)](https://open.spotify.com/user/lamisgosu11) <img src = "https://c.tenor.com/ayNnvjM1ozIAAAAC/tenor.gif" height ="330" width = "400"/> 
 
    
 </div>
