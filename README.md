@@ -39,7 +39,8 @@
 
 <h3 align="center">🏆Github Trophies🏆
 
-![Snake Animation](https://github-profile-trophy.vercel.app/?username=lamisgosu11&theme=discord&no-bg=true&no-frame=true)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=lamisgosu11&theme=discord&no-bg=true&no-frame=true&rank=-?,-B,-C&column=5)
+
  </h3> 
 
 -----
