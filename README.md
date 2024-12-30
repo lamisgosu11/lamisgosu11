@@ -39,7 +39,7 @@
 
 <h3 align="center">🏆Github Trophies🏆
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=lamisgosu11&theme=discord&no-bg=true&no-frame=true&rank=-?,-B,-C&column=5)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=lamisgosu11&theme=discord&no-bg=true&no-frame=true&rank=-?,-C&column=5)
 
  </h3> 
 
