@@ -1,4 +1,4 @@
-<h3 align="center"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/refs/heads/main/github-profile/uma-kick.gif" width="" /> </h3> 
+<!-- <h3 align="center"> <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/refs/heads/main/github-profile/uma-kick.gif" width="" /> </h3>  -->
 <!--<h3 align='center'> <img src="https://komarev.com/ghpvc/?username=lamisgosu11&color=ff69b4&style=for-the-badge&label=Lovely+People" width=""  /></h3> -->
 <h1 align="center"> Hi👋, I'm Lam</h1> 
 <img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/bio.svg">
